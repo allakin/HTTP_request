@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		5A5C7CB2BE71E18B454CCA62 /* Pods_HTTP_request.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F33EFFBDDDE18FDB0EB0892F /* Pods_HTTP_request.framework */; };
-		7311C8B91D60EBEB00088248 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 7311C8B81D60EBEB00088248 /* Podfile */; };
 		73BD971F1D60E727006521B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73BD971E1D60E727006521B6 /* AppDelegate.swift */; };
 		73BD97211D60E727006521B6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73BD97201D60E727006521B6 /* ViewController.swift */; };
 		73BD97241D60E727006521B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73BD97221D60E727006521B6 /* Main.storyboard */; };
@@ -18,7 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7311C8B81D60EBEB00088248 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Podfile; path = "HTTP request/Podfile"; sourceTree = "<group>"; };
 		73BD971B1D60E727006521B6 /* HTTP request.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HTTP request.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73BD971E1D60E727006521B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		73BD97201D60E727006521B6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,7 +53,6 @@
 		73BD97121D60E727006521B6 = {
 			isa = PBXGroup;
 			children = (
-				7311C8B81D60EBEB00088248 /* Podfile */,
 				73BD971D1D60E727006521B6 /* HTTP request */,
 				73BD971C1D60E727006521B6 /* Products */,
 				CB5DEC049E88A44D905F22B6 /* Pods */,
@@ -157,7 +154,6 @@
 			files = (
 				73BD972C1D60E727006521B6 /* LaunchScreen.storyboard in Resources */,
 				73BD97291D60E727006521B6 /* Assets.xcassets in Resources */,
-				7311C8B91D60EBEB00088248 /* Podfile in Resources */,
 				73BD97241D60E727006521B6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -21,7 +21,7 @@ class ViewController: UIViewController {
 				print(response.result)   // result of response serialization
 				
 				if let JSON = response.result.value {
-					print("JSON: \(JSON)")
+					print("Json: \(JSON)")
 				}
 		}
 	}
